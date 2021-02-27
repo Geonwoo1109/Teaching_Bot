@@ -7,3 +7,7 @@
 var json = {"a":"b"};
 json["c"] = "d"    // json = {"a":"b", "c":"d"}
 delete json["a"]   // json = {"c":"d"}
+
+방에 따라 다르게하는거 성공
+
+단순 자동응답이랑 포함된메시지도 구형 예
