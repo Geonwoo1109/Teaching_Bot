@@ -100,7 +100,7 @@ try {
       +"[이렇게 말하면..]"+n
       +sum1.join(n)+nn
       +"[이 내용이 들어가면..]"+n
-      +sum2.join(""));
+      +sum2.join(n));
     sum1 = [];
     sum2 = [];
   }
